@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do-List App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div  class = "container">
+        <div class  = "to-do-app">
+            <h2>To-Do List<img src ="images/ToDoListLogo.png" class = "to-do-list-logo"alt="To-Do List Logo"> </h2>
+            <div class = "row">
+                <input type = "text" id = "to-do-input-box" placeholder="Add a new task...">
+                <button onclick = "addTask()" id = "add-to-do-button">Add</button>
+            </div>
+            <ul id = "to-do-list-container">
+            </ul>
+        </div>
+        <div class = "features-description">
+            <h3>Features:</h3>
+            <ul>
+                <li>Add new tasks to your to-do list.</li>
+                <li>Click on a task to mark it as completed.</li>
+                <li>Click on a completed task to unmark it.</li>
+                <li>Click the "X" button next to a task to delete it from the list.</li>
+            </ul>
+
+        </div>
+    </div>
+    <div class="footer">
+        <p>© 2025 To-Do List App. All rights reserved.</p>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>

@@ -2,22 +2,18 @@
 
 A simple and intuitive To-Do List Web Application built with HTML, CSS, and JavaScript that helps users keep track of tasks, mark them complete, and remove them when done. Tasks are managed in the browser and can be added or deleted seamlessly.
 
-**🔍 Demo
-**
+**🔍 Demo**
 
 Live preview: https://to-do-list-app-ten-gold.vercel.app GitHub
 
-________________________________________
-
-**🧩 Features
-**
+**🧩 Features**
 
       ✔ Add new tasks
       ✔ Mark tasks as completed
       ✔ Delete tasks when finished
       ✔ Responsive design for mobile and desktop
       ✔ Simple and clean UI
-________________________________________
+
 📁 Project Structure
 
       To-Do-List-App/
@@ -25,7 +21,7 @@ ________________________________________
       ├── index.html       # Main web page
       ├── style.css        # Styles
       └── script.js        # JavaScript logic
-________________________________________
+
 
 **🚀 Getting Started**
 
@@ -40,7 +36,7 @@ You only need a web browser (Chrome, Firefox, Edge, etc.)
     cd To-Do-List-App
     2.	Open the app:
     Double-click index.html or open it in your favorite browser.
-________________________________________
+
 
 **🧠 How It Works**
 
@@ -48,14 +44,13 @@ ________________________________________
     2.	Press Enter or click the Add button
     3.	View your task added to the list
     4.	Mark it complete or remove it using the UI controls
-________________________________________
+
 
 **🛠 Technologies Used**
 
     •	HTML — structure of the web page
     •	CSS — styling and layout
     •	JavaScript — interactivity and task handling
-________________________________________
 
 **💡 Future Enhancements (Optional)**
 
@@ -63,7 +58,6 @@ ________________________________________
     ⭐ Add due-dates & notifications
     ⭐ Add task categories (e.g., Work, Personal)
     ⭐ Dark mode theme
-________________________________________
 
 **🙌 Contributing**
 

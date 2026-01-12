@@ -5,7 +5,7 @@ and remove them when done. Tasks are managed in the browser and can be added or 
 
 **🔍 Demo**
 
-Live preview: https://to-do-list-app-ten-gold.vercel.app GitHub
+Live preview: https://to-do-list-app-ten-gold.vercel.app 
 
 **🧩 Features**
 

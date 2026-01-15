@@ -2,7 +2,9 @@
 
 A simple and intuitive To-Do List Web Application built with HTML, CSS, and JavaScript that helps users keep track of tasks, mark them complete, and remove them when done. Tasks are managed in the browser and can be added or deleted seamlessly.
 
+**🔍 Demo**
 
+Live preview: https://to-do-list-app-ten-gold.vercel.app 
 
 **🧩 Features**
 

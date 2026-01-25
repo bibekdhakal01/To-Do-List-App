@@ -4,7 +4,7 @@ A simple and intuitive To-Do List Web Application built with HTML, CSS, and Java
 and remove them when done. 
 Tasks are managed in the browser and can be added or deleted seamlessly.
 
-** Demo**
+** 🔍 Demo**
 
 Live preview: https://to-do-list-app-ten-gold.vercel.app 
 

@@ -1,7 +1,6 @@
 **📋 To-Do List App**
 
-A simple and intuitive To-Do List Web Application built with HTML, CSS, and JavaScript that helps users keep track of tasks, mark them complete, and remove them when done. 
-Tasks are managed in the browser and can be added or deleted seamlessly.
+A simple and intuitive To-Do List Web Application built with HTML, CSS, and JavaScript that helps users keep track of tasks, mark them complete, and remove them when done. Tasks are managed in the browser and can be added or deleted seamlessly.
 
 ** 🔍 live Demo**
 
